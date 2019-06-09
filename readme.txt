@@ -1,4 +1,4 @@
-## all the notes books runs on Google Colab 
+## all the notes books run on Google Colab 
 ## set the run time seetings to TPU
 ## have commented the whole process of the style transfer
 ## NST_EE - EE stands for Eager execution models and 
